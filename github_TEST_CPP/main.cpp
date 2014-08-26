@@ -2,7 +2,7 @@
 
 int main(int argc, char** argv, char **){
     std::cout << "__Hello_World__!";
-    std::cout << "__Enjoy_us__!!!";
+    std::cout << "__Enjoy__!!!";
 	std::getchar();
 	return 0;
 }
